@@ -1,0 +1,93 @@
+/*
+Theme Name: Twenty Seventeen Child
+Theme URI:
+Description: A child theme of twentyseventeen
+Author:
+Author URI:
+Template: twentyseventeen
+Version: 0.1.0
+*/
+/* change the  font color of nav bar */
+.main-navigation a
+{
+  color : red;
+  font-size: 25px;
+}
+/* change the  font color of widget title*/
+h3.widget-title
+{
+  color: red;
+}
+/* change the  title of link */
+.entry-title a
+{
+  color: red;
+}
+.main-navigation ul
+{
+    background-color: black;
+}
+.navigation-top
+{
+  background-color: black;
+}
+/* change the  color of site title */
+.site-title a
+{
+  color: red;
+}
+/* change the  display setings */
+.edit-link a
+{
+  display: none;
+}
+h2.entry-title
+{
+  display: none;
+}
+h1.entry-title{display: none;}
+.widget a
+{
+  font-size: 20px;
+  color: red;
+}
+/* change the  display setings of page-title and pst link */
+h1.page-title { display: none;}
+.post-edit-link a { display: none;}
+h2.widget-title {
+font-size: 15px;
+color: red; }
+h5
+{
+ color: red;
+ font-size: 16px;
+}
+/* change the color of social menu link */
+.social-navigation a
+{
+  background-color: red;
+}
+/* search button color change */
+button.search-submit
+{
+  background-color: red;
+}
+/* change the color of  send button*/
+input.wpcf7-form-control.wpcf7-submit
+{
+  background-color: red;
+}
+element.style
+{
+  font-size: 20px;
+}
+label
+{
+  color: red;
+}
+p { font-size: 25px bold ; }
+input#search-from-59fbeOfca2451.search-field
+{
+  display: none;
+}
+h2 { color: red;}
